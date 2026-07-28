@@ -3,7 +3,7 @@
 
   <!-- Sección de la foto de perfil -->
   <div style="flex-shrink: 0; text-align: center;">
-    <img src="./1698725034314 (1).png" 
+    <img src="./1698725034314 (1).jng" 
          alt="José Miguel Ruiz" 
          style="width: 180px; height: 180px; border-radius: 50%; object-fit: cover; border: 3px solid #f0f0f0;" />
     <p style="font-size: 14px; color: #666; margin-top: 10px;">
