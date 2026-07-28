@@ -28,8 +28,3 @@ Análisis exploratorio de datos y segmentación de usuarios para evaluar patrone
 Evaluación del rendimiento comercial y la eficiencia del catálogo mediante el procesamiento de datos y la creación de tableros ejecutivos.
 * **Herramientas:** Python, Tableau Public, Excel
 * [Ver repositorio del proyecto](https://github.com/JoseMiguelRuiz21)
-
-### 3. Sistema de clasificación y control de expedientes (TEESIN)
-Modelo de inventario digital y visualización de carga de trabajo para optimizar el resguardo y localización de archivos estratégicos.
-* **Herramientas:** Power BI, Excel avanzado, SQL
-* [Ver repositorio del proyecto](https://github.com/JoseMiguelRuiz21)
