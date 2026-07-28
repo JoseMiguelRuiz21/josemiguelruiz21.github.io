@@ -3,7 +3,7 @@
 
   <!-- Sección de la foto de perfil -->
   <div style="flex-shrink: 0; text-align: center;">
-    <img src="./1698725034314 (1).jng" 
+    <img src="./1698725034314 (1).jpg" 
          alt="José Miguel Ruiz" 
          style="width: 180px; height: 180px; border-radius: 50%; object-fit: cover; border: 3px solid #f0f0f0;" />
     <p style="font-size: 14px; color: #666; margin-top: 10px;">
@@ -56,7 +56,3 @@ Evaluación del rendimiento comercial y la eficiencia del catálogo mediante el 
 * **Herramientas:** Python, Tableau Public, Excel
 * [Ver repositorio del proyecto](https://github.com/JoseMiguelRuiz21)
 
-### 3. Sistema de clasificación y control de expedientes (TEESIN)
-Modelo de inventario digital y visualización de carga de trabajo para optimizar el resguardo y localización de archivos estratégicos.
-* **Herramientas:** Power BI, Excel avanzado, SQL
-* [Ver repositorio del proyecto](https://github.com/JoseMiguelRuiz21)
