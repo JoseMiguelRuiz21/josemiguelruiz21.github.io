@@ -1,8 +1,32 @@
-# Acerca de mí
+<!-- Contenedor principal para foto y presentación -->
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
 
-Analista de datos e investigador social con formación de posgrado en la UNAM y experiencia en el sector público. Especializado en la extracción, limpieza, estandarización y modelado de datos estratégicos para la toma de decisiones basada en evidencia.
+  <!-- Sección de la foto de perfil -->
+  <div style="flex-shrink: 0; text-align: center;">
+    <img src="./1698725034314 (1).png" 
+         alt="José Miguel Ruiz" 
+         style="width: 180px; height: 180px; border-radius: 50%; object-fit: cover; border: 3px solid #f0f0f0;" />
+    <p style="font-size: 14px; color: #666; margin-top: 10px;">
+      ¡Hola! Te doy la bienvenida a mi portafolio de<br>proyectos de Análisis de Datos.
+    </p>
+  </div>
 
-Genero insights accionables que optimizan procesos institucionales y comerciales mediante visualización interactiva y automatización.
+  <!-- Sección del texto de presentación -->
+  <div style="flex-grow: 1;">
+    <h1 style="color: #2c3e50; margin-top: 0;">José Miguel Ruiz</h1>
+    <h2 style="color: #34495e; font-weight: normal; margin-top: -10px;">Investigador social & data analyst</h2>
+
+    <p>
+      Analista de datos e investigador social con formación de posgrado en la UNAM y experiencia en el sector público. Especializado en la extracción, limpieza, estandarización y modelado de datos estratégicos para la toma de decisiones basada en evidencia.
+    </p>
+    <p>
+      Genero insights accionables que optimizan procesos institucionales y comerciales mediante visualización interactiva y automatización.
+    </p>
+  </div>
+
+</div>
+
+---
 
 ### Habilidades tecnológicas
 
@@ -13,7 +37,10 @@ Genero insights accionables que optimizan procesos institucionales y comerciales
 
 Análisis crítico | Investigación cuantitativa | Redacción ejecutiva | Resolución de problemas | Comunicación efectiva | Trabajo en equipo | Atención al detalle
 
-[LINKEDIN](https://www.linkedin.com/in/jose-miguel-ruiz-meza) | [CORREO](mailto:jruizmeza10@gmail.com)
+<div style="margin-top: 20px; margin-bottom: 30px;">
+  <a href="https://www.linkedin.com/in/jose-miguel-ruiz-meza" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077b5; color: white; text-decoration: none; border-radius: 5px; margin-right: 10px;">LINKEDIN</a>
+  <a href="mailto:jruizmeza10@gmail.com" style="display: inline-block; padding: 10px 20px; background-color: #e74c3c; color: white; text-decoration: none; border-radius: 5px;">CORREO</a>
+</div>
 
 ---
 
@@ -27,4 +54,9 @@ Análisis exploratorio de datos y segmentación de usuarios para evaluar patrone
 ### 2. Dashboard de desempeño comercial (Andes Retail Group)
 Evaluación del rendimiento comercial y la eficiencia del catálogo mediante el procesamiento de datos y la creación de tableros ejecutivos.
 * **Herramientas:** Python, Tableau Public, Excel
+* [Ver repositorio del proyecto](https://github.com/JoseMiguelRuiz21)
+
+### 3. Sistema de clasificación y control de expedientes (TEESIN)
+Modelo de inventario digital y visualización de carga de trabajo para optimizar el resguardo y localización de archivos estratégicos.
+* **Herramientas:** Power BI, Excel avanzado, SQL
 * [Ver repositorio del proyecto](https://github.com/JoseMiguelRuiz21)
