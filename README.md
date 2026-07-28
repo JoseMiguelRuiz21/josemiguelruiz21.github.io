@@ -1,13 +1,16 @@
 <!-- Contenedor principal para foto y presentación -->
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
 
-  <!-- Sección de la foto de perfil -->
+  <!-- Sección de la foto de perfil y enlaces rápidos -->
   <div style="flex-shrink: 0; text-align: center;">
     <img src="./1698725034314 (1).jpg" 
          alt="José Miguel Ruiz" 
          style="width: 180px; height: 180px; border-radius: 50%; object-fit: cover; border: 3px solid #f0f0f0;" />
     <p style="font-size: 14px; color: #666; margin-top: 10px;">
       ¡Hola! Te doy la bienvenida a mi portafolio de<br>proyectos de Análisis de Datos.
+    </p>
+    <p style="margin-top: 10px;">
+      <a href="https://github.com/JoseMiguelRuiz21" target="_blank" style="font-size: 14px; font-weight: bold; color: #0366d6; text-decoration: none;">View My GitHub Profile</a>
     </p>
   </div>
 
@@ -55,4 +58,3 @@ Análisis exploratorio de datos y segmentación de usuarios para evaluar patrone
 Evaluación del rendimiento comercial y la eficiencia del catálogo mediante el procesamiento de datos y la creación de tableros ejecutivos.
 * **Herramientas:** Python, Tableau Public, Excel
 * [Ver repositorio del proyecto](https://github.com/JoseMiguelRuiz21)
-
